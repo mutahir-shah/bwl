@@ -1,0 +1,25 @@
+{
+    "name": "mutahir-shah/bwl",
+    "description": "Service apis for whitelable in slim framework",
+    "type": "project",
+    "require": {
+        "php": "7.1",
+        "slim/slim": "3.0"
+    },
+    "require-dev": {
+        "php": "7.0"
+    },
+    "license": "copyright",
+    "authors": [
+        {
+            "name": "Mutahir Shah",
+            "email": "mutahir@orangebuddies.pk"
+        },
+        "autoload": {
+        "psr-4": {
+            "bwlclasses\\": "src"
+        }
+    },
+    ]
+
+}
