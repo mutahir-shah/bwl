@@ -3,11 +3,8 @@
     "description": "Service apis for whitelable in slim framework",
     "type": "project",
     "require": {
-        "php": "7.2"
+        "php": ">=5.6.0"
     },
-    "require-dev": {
-        "php": "7.0"
-    }, 
      "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
