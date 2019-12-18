@@ -8,14 +8,13 @@
     },
     "require-dev": {
         "php": "7.0"
-    },
+    }, 
      "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "bwlclasses\\": "src"
         }
-    },
-    "license": "copyright",
+    }, 
     "authors": [
         {
             "name": "Mutahir Shah",
